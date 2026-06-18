@@ -1,6 +1,6 @@
 # Artikula
 
-Artikula adalah project website publikasi dan manajemen artikel berdasarkan PRD: React/Vite untuk frontend, Laravel REST API untuk backend, PostgreSQL sebagai database utama, dan Laravel Sanctum untuk autentikasi token.
+Artikula adalah project website publikasi dan manajemen artikel yang dibuat dengan React/Vite untuk frontend, Laravel REST API untuk backend, PostgreSQL sebagai database utama, dan Laravel Sanctum untuk autentikasi token.
 
 ## Struktur
 
